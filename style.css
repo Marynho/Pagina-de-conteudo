@@ -12,6 +12,7 @@ h1,h2{
 
 
 .top-bar{
+    position: sticky;
     background-color: #333;
     color: white;
     font-size: 24px;
